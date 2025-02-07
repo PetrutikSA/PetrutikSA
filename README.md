@@ -1,5 +1,16 @@
 ## <div align="left">Hello, nice to see you! 👋</div>  
 I'm Stanislav, Backend developer from Saint-Petersburg, Russia.
+
+In my free time i’m currently working on my pet project **[SmartBuy](https://github.com/PetrutikSA/smart-buy)** — Telegram bot to check prices in marketplases at everyday schedule. 
+Tech stack: Java, Spring (Boot, Data, Web), Kafka, Hibernate, PostgreSQL, Docker, Kubernetes, Maven, Jsoup, Telegram API
+
+Features are planned to develop:
+- include parsing of two more marketplases
+- expand communications with users: allow to ban not suitable products, allow to chanche max prase based on search results
+- expand finctionality of schedule service: allow users to control notification time, make ability time breake period to requests updating/notification.
+If you’re a developer, designer, or someone interested in contributing, feel free to reach out. Let’s build something cool together! 
+
+If you have job offer, please? contact with me via telegram of email.
 <br/>  
 
 ### My Skill Set  
